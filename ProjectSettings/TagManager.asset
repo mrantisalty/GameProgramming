@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Animals
+  - Monster
+  - Animal
+  - Crop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 199565591
+    locked: 0
+  - name: DecorBackground
+    uniqueID: 1373247907
+    locked: 0
+  - name: Ground
+    uniqueID: 1491183015
+    locked: 0
+  - name: DecorBack
+    uniqueID: 916300067
+    locked: 0
+  - name: Player
+    uniqueID: 1298178319
+    locked: 0
+  - name: NPC
+    uniqueID: 1239546595
+    locked: 0
+  - name: DecorFront
+    uniqueID: 535835027
+    locked: 0
+  - name: UI
+    uniqueID: 446236865
+    locked: 0
+  m_RenderingLayers:
+  - Default
